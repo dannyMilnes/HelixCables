@@ -1337,7 +1337,7 @@ section.content .home-page {
   }
 }
 section.content .home-page.has-welcome {
-  // margin-top: -80px;
+  margin-top: 0px;
 }
 @media screen and (max-width: 668px) {
   section.content .home-page.has-welcome {
