@@ -1299,8 +1299,8 @@ footer .bigcartel-credit .badge a {
 
 h1.welcome-header {
   color: {{ theme.accent_text_color }};
-  font-size: 60px;
-  line-height: 1.4em;
+  font-size: 70px;
+  // line-height: 1.4em;
   margin: 0 0 32px;
   text-align: center;
 }
@@ -1313,8 +1313,8 @@ h1.welcome-header {
 
 h2.welcome-subheader {
   color: {{ theme.accent_text_color }};
-  font-size: 18px;
-  line-height: 1.4em;
+  font-size: 40px;
+  // line-height: 1.4em;
   text-align: center;
 }
 h2.welcome-subheader:after {
